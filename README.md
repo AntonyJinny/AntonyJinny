@@ -2,7 +2,7 @@
 - 👀 I’m interested in software/ computer engineering and design.
 - 🌱 I’m currently learning Java and other programs.
 - 💞️ I’m looking to collaborate on everything!
-- 📫 How to reach me: trenteay@gmail.com
+- 📫 How to reach me: antonyjin22@gmail.com
 
 <!---
 AntonyJinny/AntonyJinny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
